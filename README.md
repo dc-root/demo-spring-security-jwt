@@ -3,8 +3,6 @@
 Implement a simple authentication demo with Spring Security and JWT
 
 ---
-<figure class="video_container">
-  <video controls="true" autoplay="true" loop="true" allowfullscreen="true">
-    <source src=".github/SPRING_SECURITY_JWT.mp4" type="video/mp4">
-  </video>
-</figure>
+https://github.com/dc-root/demo-spring-security-jwt/assets/68944586/aac460e0-a6db-4034-acdb-762d5d8df97b
+
+
